@@ -13,7 +13,7 @@ public class JogoDaVelha {
 		
 		for(int i=0; i < 3; i++) {
 			for(int j=0; j < 3; j++) {
-				System.out.print("Digite o valor da casa [" + i +"][" + j + "]: " );
+				System.out.print("Digite o valorr da casa [" + i +"][" + j + "]: " );
 				matriz[i][j] = ler.nextLine().charAt(0);
 			}
 		}
