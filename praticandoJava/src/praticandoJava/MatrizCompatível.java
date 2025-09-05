@@ -54,11 +54,7 @@ public class MatrizCompatível {
 			}
 			System.out.println(" ");
 		}
-		
-		
-		
-		
-		
+	
 		sc.close();
 	}
 
